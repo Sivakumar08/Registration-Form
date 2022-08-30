@@ -1,0 +1,25 @@
+body  {
+    background-image: url("https://i.stack.imgur.com/jGlzr.png");
+    background-color: #cccccc;
+  }
+.reg-title{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.container{
+   background-color: rgb(216, 216, 216);
+    width: 650px;
+    margin: 10px auto;
+   margin-top: 120px;
+   padding-left: 50px;
+  padding-bottom: 15px;
+   border: 1px solid black;
+   box-shadow: 0 4px 8px 0 rgba(128, 79, 79, 0.807), 0 6px 20px 0 rgba(24, 135, 214, 0.159);
+}
+
+.submit-btn{
+    padding-top: 10px;
+    text-align: center; 
+    
+}
